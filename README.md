@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A nature lover and travel enthusiast, currently studying to become a Computer Engineer.</h3>
 
-<!--
-- 📫 How to reach me **lucadavini98@gmail.com**
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="www.linkedin.com/in/luca-davini-4a2884278" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca davini" height="30" width="40" /></a>
-</p>
--->
-
 <h4 align="left">Get in touch with me:</h4>
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail?logo=gmail&link=lucadavini98%40gmail.com">
+  <a href="https://www.linkedin.com/in/luca-davini-4a2884278/" target="blank">
+    <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="luca davini" height="30" width="40" />
+  </a>
+  <a href="mailto: lucadavini98@gmail.com" target="blank">
+    <img align="center" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="luca davini" height="30" width="40" />
+  </a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
